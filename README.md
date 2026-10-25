@@ -6,6 +6,14 @@
 
 ---
 
+## 0. Live Deployment & Repository Links
+
+- **Public Anonymous GitHub Repository:** [https://github.com/Kishansingh01/kjhwr-wind-procurement](https://github.com/Kishansingh01/kjhwr-wind-procurement)
+- **Live Vercel Application:** [https://spry-zinc-k2js8m1.tmp.now](https://spry-zinc-k2js8m1.tmp.now)
+  *(Permanent claim link: [Claim on Vercel](https://vercel.com/claim-deployment?code=2ee3b0aa-fb50-4179-a1f7-1da1c5cc5ed1))*
+
+---
+
 ## 1. Executive Summary & Problem Setting
 
 In Great Britain (GB), wholesale power is procured on day-ahead power exchanges (EPEX SPOT and Nord Pool N2EX). The auction gate closure occurs daily at **11:00 AM GMT on Day $D-1$** for power delivery across the 24 hours (48 settlement periods) of **Day $D$**.
