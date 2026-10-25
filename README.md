@@ -8,9 +8,10 @@
 
 ## 0. Live Deployment & Repository Links
 
+- **Live Web Application (Public & Verified):** [https://kishansingh01.github.io/kjhwr-wind-procurement/](https://kishansingh01.github.io/kjhwr-wind-procurement/)
 - **Public Anonymous GitHub Repository:** [https://github.com/Kishansingh01/kjhwr-wind-procurement](https://github.com/Kishansingh01/kjhwr-wind-procurement)
-- **Live Vercel Application:** [https://spry-zinc-k2js8m1.tmp.now](https://spry-zinc-k2js8m1.tmp.now)
-  *(Permanent claim link: [Claim on Vercel](https://vercel.com/claim-deployment?code=2ee3b0aa-fb50-4179-a1f7-1da1c5cc5ed1))*
+- **1-Click Vercel Deploy:** [Deploy to Vercel](https://vercel.com/new/clone?repository-url=https://github.com/Kishansingh01/kjhwr-wind-procurement)
+- **Active Vercel Claim Link:** [https://vercel.com/claim-deployment?code=2ee3b0aa-fb50-4179-a1f7-1da1c5cc5ed1](https://vercel.com/claim-deployment?code=2ee3b0aa-fb50-4179-a1f7-1da1c5cc5ed1)
 
 ---
 
